@@ -10,19 +10,19 @@ const Home = () => {
 	<Navbar/>
 	<Jumbotron/>
 	<div className="row d-flex justify-content-center">
-		<div className="col-2">
+		<div className="col-12 col-lg-2">
 			<Card/>
 		</div>
-		<div className="col-2">
+		<div className="col-12 col-lg-2">
 			<Card/>
 		</div>
-		<div className="col-2">
+		<div className="col-12 col-lg-2">
 			<Card/>
 		</div>
-		<div className="col-2">
+		<div className="col-12 col-lg-2">
 			<Card/>
 		</div>
-		<div className="col-2">
+		<div className="col-12 col-lg-2">
 			<Card/>
 		</div>
 	</div>
